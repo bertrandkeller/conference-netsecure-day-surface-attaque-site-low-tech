@@ -1,0 +1,774 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0beta1 (fe3e306, 2019-09-17)"
+   sodipodi:docname="netsecureday-attack-schema.svg">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker2076"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path2074"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1890"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#010101;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path1888" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker1836"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path1834"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker1345"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow2Mend"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.6) rotate(180) translate(0,0)"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         id="path1343" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path914"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path908"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path890"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.8) rotate(180) translate(12.5,0)" />
+    </marker>
+    <rect
+       x="83.532738"
+       y="22.300595"
+       width="136.9856"
+       height="30.018307"
+       id="rect881" />
+    <rect
+       x="4.5357143"
+       y="8.6934524"
+       width="53.650132"
+       height="49.169378"
+       id="rect837" />
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4134">
+      <feFlood
+         flood-opacity="0.219608"
+         flood-color="rgb(75,75,75)"
+         result="flood"
+         id="feFlood4124" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4126" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.6"
+         result="blur"
+         id="feGaussianBlur4128" />
+      <feOffset
+         dx="2.5"
+         dy="2.5"
+         result="offset"
+         id="feOffset4130" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite4132" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4196" />
+      <feFlood
+         id="feFlood4198"
+         flood-opacity="0.219608"
+         flood-color="rgb(75,75,75)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4200"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4202"
+         in="composite1"
+         stdDeviation="1.6"
+         result="blur" />
+      <feOffset
+         id="feOffset4204"
+         dx="2.5"
+         dy="2.5"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite4206"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4146">
+      <feFlood
+         flood-opacity="0.219608"
+         flood-color="rgb(75,75,75)"
+         result="flood"
+         id="feFlood4136" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4138" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.6"
+         result="blur"
+         id="feGaussianBlur4140" />
+      <feOffset
+         dx="2.5"
+         dy="2.5"
+         result="offset"
+         id="feOffset4142" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite4144" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4208" />
+      <feFlood
+         id="feFlood4210"
+         flood-opacity="0.219608"
+         flood-color="rgb(75,75,75)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4212"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4214"
+         in="composite1"
+         stdDeviation="1.6"
+         result="blur" />
+      <feOffset
+         id="feOffset4216"
+         dx="2.5"
+         dy="2.5"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite4218"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4158">
+      <feFlood
+         flood-opacity="0.219608"
+         flood-color="rgb(75,75,75)"
+         result="flood"
+         id="feFlood4148" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4150" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.6"
+         result="blur"
+         id="feGaussianBlur4152" />
+      <feOffset
+         dx="2.5"
+         dy="2.5"
+         result="offset"
+         id="feOffset4154" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite4156" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4220" />
+      <feFlood
+         id="feFlood4222"
+         flood-opacity="0.219608"
+         flood-color="rgb(75,75,75)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4224"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4226"
+         in="composite1"
+         stdDeviation="1.6"
+         result="blur" />
+      <feOffset
+         id="feOffset4228"
+         dx="2.5"
+         dy="2.5"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite4230"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4170">
+      <feFlood
+         flood-opacity="0.219608"
+         flood-color="rgb(75,75,75)"
+         result="flood"
+         id="feFlood4160" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4162" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.6"
+         result="blur"
+         id="feGaussianBlur4164" />
+      <feOffset
+         dx="2.5"
+         dy="2.5"
+         result="offset"
+         id="feOffset4166" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite4168" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4232" />
+      <feFlood
+         id="feFlood4234"
+         flood-opacity="0.219608"
+         flood-color="rgb(75,75,75)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4236"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4238"
+         in="composite1"
+         stdDeviation="1.6"
+         result="blur" />
+      <feOffset
+         id="feOffset4240"
+         dx="2.5"
+         dy="2.5"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite4242"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4182">
+      <feFlood
+         flood-opacity="0.219608"
+         flood-color="rgb(75,75,75)"
+         result="flood"
+         id="feFlood4172" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4174" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.6"
+         result="blur"
+         id="feGaussianBlur4176" />
+      <feOffset
+         dx="2.5"
+         dy="2.5"
+         result="offset"
+         id="feOffset4178" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite4180" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4244" />
+      <feFlood
+         id="feFlood4246"
+         flood-opacity="0.219608"
+         flood-color="rgb(75,75,75)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4248"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4250"
+         in="composite1"
+         stdDeviation="1.6"
+         result="blur" />
+      <feOffset
+         id="feOffset4252"
+         dx="2.5"
+         dy="2.5"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite4254"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4194">
+      <feFlood
+         flood-opacity="0.219608"
+         flood-color="rgb(75,75,75)"
+         result="flood"
+         id="feFlood4184" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite4186" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="1.6"
+         result="blur"
+         id="feGaussianBlur4188" />
+      <feOffset
+         dx="2.5"
+         dy="2.5"
+         result="offset"
+         id="feOffset4190" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="fbSourceGraphic"
+         id="feComposite4192" />
+      <feColorMatrix
+         result="fbSourceGraphicAlpha"
+         in="fbSourceGraphic"
+         values="0 0 0 -1 0 0 0 0 -1 0 0 0 0 -1 0 0 0 0 1 0"
+         id="feColorMatrix4256" />
+      <feFlood
+         id="feFlood4258"
+         flood-opacity="0.219608"
+         flood-color="rgb(75,75,75)"
+         result="flood"
+         in="fbSourceGraphic" />
+      <feComposite
+         in2="fbSourceGraphic"
+         id="feComposite4260"
+         in="flood"
+         operator="in"
+         result="composite1" />
+      <feGaussianBlur
+         id="feGaussianBlur4262"
+         in="composite1"
+         stdDeviation="1.6"
+         result="blur" />
+      <feOffset
+         id="feOffset4264"
+         dx="2.5"
+         dy="2.5"
+         result="offset" />
+      <feComposite
+         in2="offset"
+         id="feComposite4266"
+         in="fbSourceGraphic"
+         operator="over"
+         result="composite2" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.24364829"
+     inkscape:cx="56.477333"
+     inkscape:cy="689.43128"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="755"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       inkscape:export-ydpi="98.699997"
+       inkscape:export-xdpi="98.699997"
+       id="g3449">
+      <rect
+         y="97.298058"
+         x="70.209381"
+         height="63.287792"
+         width="63.530571"
+         id="rect847"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.941176;filter:url(#filter4170);stop-opacity:1" />
+      <text
+         transform="translate(69.948645,105.46579)"
+         y="0"
+         x="55.515812"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:'COCOGOOSE Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;shape-inside:url(#rect837);opacity:1;fill:#000000;fill-opacity:1;stroke:none;stop-opacity:1"
+         id="text851"
+         xml:space="preserve"><tspan
+           x="31.360352"
+           y="14.249609"
+           sodipodi:role="line"><tspan /></tspan><tspan
+           x="11.715039"
+           y="22.187109"
+           sodipodi:role="line"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.35px;font-family:COCOGOOSE;-inkscape-font-specification:'COCOGOOSE Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Exploite la </tspan><tspan
+             dx="1.9967804" /></tspan><tspan
+           x="8.812891"
+           y="30.124609"
+           sodipodi:role="line"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.35px;font-family:COCOGOOSE;-inkscape-font-specification:'COCOGOOSE Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">vulnérabilité </tspan></tspan></text>
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.941176;filter:url(#filter4134);stop-opacity:1"
+         id="rect857"
+         width="63.530571"
+         height="46.703808"
+         x="-3.8739338"
+         y="218.83612" />
+      <text
+         xml:space="preserve"
+         id="text863"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:'COCOGOOSE Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;shape-inside:url(#rect837);opacity:1;fill:#000000;fill-opacity:1;stroke:none;stop-opacity:1"
+         x="55.515812"
+         y="0"
+         transform="translate(-3.4405564,226.07151)"><tspan
+           x="23.770117"
+           y="14.249609"
+           sodipodi:role="line"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.35px;font-family:COCOGOOSE;-inkscape-font-specification:'COCOGOOSE Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Site </tspan><tspan
+             dx="1.9967775" /></tspan><tspan
+           x="10.921289"
+           y="22.187109"
+           sodipodi:role="line"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.35px;font-family:COCOGOOSE;-inkscape-font-specification:'COCOGOOSE Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">compromis</tspan></tspan></text>
+      <rect
+         y="218.83612"
+         x="70.209404"
+         height="46.703808"
+         width="63.530571"
+         id="rect865"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.941176;filter:url(#filter4146);stop-opacity:1" />
+      <text
+         transform="translate(71.389029,226.33186)"
+         y="0"
+         x="55.515812"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:'COCOGOOSE Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;shape-inside:url(#rect837);opacity:1;fill:#000000;fill-opacity:1;stroke:none;stop-opacity:1"
+         id="text869"
+         xml:space="preserve"><tspan
+           x="15.956641"
+           y="14.249609"
+           sodipodi:role="line"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.35px;font-family:COCOGOOSE;-inkscape-font-specification:'COCOGOOSE Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Serveur </tspan><tspan
+             dx="1.9967785" /></tspan><tspan
+           x="20.353272"
+           y="22.187109"
+           sodipodi:role="line"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.35px;font-family:COCOGOOSE;-inkscape-font-specification:'COCOGOOSE Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">hacké</tspan></tspan></text>
+      <rect
+         y="218.87181"
+         x="144.29272"
+         height="46.703808"
+         width="63.530571"
+         id="rect871"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.941176;filter:url(#filter4158);stop-opacity:1" />
+      <text
+         transform="translate(144.72612,226.10244)"
+         y="0"
+         x="55.515812"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:'COCOGOOSE Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;shape-inside:url(#rect837);opacity:1;fill:#000000;fill-opacity:1;stroke:none;stop-opacity:1"
+         id="text875"
+         xml:space="preserve"><tspan
+           x="14.821826"
+           y="14.249609"
+           sodipodi:role="line"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.35px;font-family:COCOGOOSE;-inkscape-font-specification:'COCOGOOSE Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Données </tspan><tspan
+             dx="1.9967766" /></tspan><tspan
+           x="6.8533207"
+           y="22.187109"
+           sodipodi:role="line"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.35px;font-family:COCOGOOSE;-inkscape-font-specification:'COCOGOOSE Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">compromises</tspan></tspan></text>
+      <rect
+         y="2.0480664"
+         x="-1.228121"
+         height="63.287792"
+         width="63.530571"
+         id="rect833"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.941176;filter:url(#filter4182);stop-opacity:1" />
+      <text
+         transform="translate(-0.80180536,18.169178)"
+         y="0"
+         x="55.515812"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:'COCOGOOSE Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;shape-inside:url(#rect837);opacity:1;fill:#000000;fill-opacity:1;stroke:none;stop-opacity:1"
+         id="text835"
+         xml:space="preserve"><tspan
+           x="6.0905766"
+           y="14.249609"
+           sodipodi:role="line"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.35px;font-family:COCOGOOSE;-inkscape-font-specification:'COCOGOOSE Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">  Identifie une </tspan><tspan
+             dx="1.9967766"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.35px;font-family:COCOGOOSE;-inkscape-font-specification:'COCOGOOSE Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal" /></tspan><tspan
+           x="7.9137211"
+           y="22.187109"
+           sodipodi:role="line"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.35px;font-family:COCOGOOSE;-inkscape-font-specification:'COCOGOOSE Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">vulnéralbilité</tspan></tspan></text>
+      <rect
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.7;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.941176;filter:url(#filter4194);stop-opacity:1"
+         id="rect841"
+         width="63.530571"
+         height="63.287792"
+         x="141.64688"
+         y="2.0480664" />
+      <text
+         xml:space="preserve"
+         id="text845"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.35px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:'COCOGOOSE Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;shape-inside:url(#rect837);opacity:1;fill:#000000;fill-opacity:1;stroke:none;stop-opacity:1"
+         x="55.515812"
+         y="0"
+         transform="translate(141.89307,5.8882782)"><tspan
+           x="31.360352"
+           y="14.249609"
+           sodipodi:role="line"><tspan /></tspan><tspan
+           x="7.9261234"
+           y="22.187109"
+           sodipodi:role="line"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.35px;font-family:COCOGOOSE;-inkscape-font-specification:'COCOGOOSE Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Cherche des </tspan><tspan
+             dx="1.9967766"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.35px;font-family:COCOGOOSE;-inkscape-font-specification:'COCOGOOSE Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal" /></tspan><tspan
+           x="14.555176"
+           y="30.124609"
+           sodipodi:role="line"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.35px;font-family:COCOGOOSE;-inkscape-font-specification:'COCOGOOSE Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">websites </tspan><tspan
+             dx="1.9967785"
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.35px;font-family:COCOGOOSE;-inkscape-font-specification:'COCOGOOSE Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal" /></tspan><tspan
+           x="10.214356"
+           y="38.062109"
+           sodipodi:role="line"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:6.35px;font-family:COCOGOOSE;-inkscape-font-specification:'COCOGOOSE Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">vulnérables</tspan></tspan></text>
+      <text
+         transform="translate(8.4666635,5.2916669)"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:'COCOGOOSE weight=255';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect881);opacity:1;fill:#1e0c0c;fill-opacity:1;stroke:none;stroke-opacity:1;stop-opacity:1"
+         id="text879"
+         xml:space="preserve"><tspan
+           x="83.533203"
+           y="31.561168"
+           sodipodi:role="line"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:10.5833px;font-family:COCOGOOSE;-inkscape-font-specification:'COCOGOOSE  weight=255';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#1e0c0c;fill-opacity:1;stroke:none;stroke-opacity:1">OU</tspan></tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path885"
+         d="M 28.348215,74.839284 V 131.15774 H 56.696427"
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow2Mend);stop-opacity:1" />
+      <path
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1345);stop-opacity:1"
+         d="M 175.98054,74.839284 V 131.15774 H 147.63231"
+         id="path1341"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path1715"
+         d="m 29.209748,186.23416 -0.432784,24.0211"
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1836);stop-opacity:1" />
+      <path
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:#010101;stroke-width:1.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker1890);stop-opacity:1"
+         d="m 173.63251,186.13967 0.0548,24.11559"
+         id="path1886"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path2072"
+         d="m 101.43904,186.23416 0.18118,24.0211"
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:1.265;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker2076);stop-opacity:1" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.965;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 29.209748,186.23416 144.422762,-0.0945 c 0.37798,-0.0315 -0.37798,0.0315 0,-1e-5"
+         id="path1884"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="m 101.43904,186.23416 0,-17.97764"
+         id="path3314"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         id="text3320"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:COCOGOOSE;-inkscape-font-specification:'COCOGOOSE weight=255';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect881);opacity:1;fill:#1e0c0c;fill-opacity:1;stroke:#000000;stroke-opacity:1;stop-opacity:1"
+         transform="translate(-41.196116,-52.889082)"><tspan
+           x="83.533203"
+           y="37.117419"
+           sodipodi:role="line"><tspan>L’ATTAQUANT</tspan></tspan></text>
+    </g>
+  </g>
+</svg>
